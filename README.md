@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJ5cDhyaWg5emdoa2s0a2RpeXJ5MmIyYW51OWR2cWI2dWZ2Y2tyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g9IOtAxp7VHUidwRwG/giphy.webp" alt="Cybersecurity Animation" width="600" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzgwdjYxMjNyZDQ0YnY4OXc2YTU3ZjYzMWt2cjQ3b2h1djVkeHUxdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hun4DFmfnDId3lid5b/giphy.webp" alt="Cybersecurity Animation" width="600" />
 </div>
 
 ---
